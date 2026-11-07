@@ -50,6 +50,7 @@
 ---
 
 ### 📚 其他公開教學資源
+* 🎧 [N5-N4 日本語聴解レッスン｜私の好きな日本料理](https://fobeetsai.github.io/japanese-reader/listening-n5-n4/) — 78 段內嵌日文語音，離線可播放
 * 📖 [日文閱讀助手 (Japanese Reader)](https://github.com/fobeetsai/japanese-reader)
 * 🎨 [絵でわかる日本語・互動型文法檢索庫](https://github.com/fobeetsai/japanese-grammar)
 * 🌐 [個人網站 / Netlify App](https://fobee.netlify.app/)
